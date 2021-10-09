@@ -1,0 +1,56 @@
+
+.containertwo{
+    display: flex;
+    background-color:white;
+    box-shadow: -30px 30px 20px silver ,
+                30px 30px 20px silver;
+    
+    flex-direction: column;
+    padding-bottom: 12px;
+    margin: auto;
+    width: 900px;
+}
+
+
+
+h1,h2,p {
+    text-align: center;
+}
+
+img{
+    text-align: center;
+    width: 900px;
+    height: 500px;
+    background-size:cover;
+}
+
+
+
+.first_text{
+   background-color: rgb(66, 59, 59); 
+   color: white;
+   display: flex;
+   text-align: center;
+   justify-content: center;
+}
+.work{
+    border-left-style: dotted;
+    border-right-style: dotted;
+    border-color: white;
+    padding: 3px 10px;
+    border-width: 1px;
+}
+
+
+
+.contact{
+    padding-top: 20px;
+}  
+
+a{
+    text-decoration: none;
+}
+body{
+    margin:0;
+    background-color: whitesmoke;
+}

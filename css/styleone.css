@@ -1,0 +1,64 @@
+h1{
+    text-align: center;
+    text-shadow: -3px -3px 4px grey;
+    width: 150px;
+}
+
+h2{
+    text-align: center;
+    color:silver;
+}
+
+.click{
+    text-decoration: none;
+    border-style:solid;
+    
+    border-color:red;
+    border-width: 1px;
+    
+    padding: 15px 30px 15px 30px;
+    border-radius: 25px 25px 25px 25px;
+    color:black;
+
+}
+.click:hover{
+    background-color: black;
+    color: white;
+}
+img{
+    background-position: center;
+    background-size: cover;
+    width: 550px;
+    height: 730px;
+}
+
+.containerone{
+        margin: auto;
+        background-color: white;
+        width: 900px;
+        height: 730px;
+        display: flex;
+        justify-content: center;
+        box-shadow: -30px 0px 20px silver ,
+                    30px 0px 20px silver;
+          
+    }
+
+
+.word{
+        display: flex;
+        width: 600px;
+        height: 730px;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    
+body{
+        margin: 0;
+        background-color:whitesmoke;
+    }
+
+    
+
+
